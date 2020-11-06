@@ -1,2 +1,2 @@
 # react-supabase
-Basic code to supabase as database
+Basic code to use supabase as database
